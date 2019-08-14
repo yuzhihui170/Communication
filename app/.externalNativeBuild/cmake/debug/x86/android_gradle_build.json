@@ -1,0 +1,44 @@
+
+{
+	"buildFiles" : [ "/Users/who/Desktop/upixels/code/Communication/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"/Users/who/Library/Android/cmake/3.6.4111459/bin/cmake --build /Users/who/Desktop/upixels/code/Communication/app/.externalNativeBuild/cmake/debug/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"jthread-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "jthread",
+			"buildCommand" : "/Users/who/Library/Android/cmake/3.6.4111459/bin/cmake --build /Users/who/Desktop/upixels/code/Communication/app/.externalNativeBuild/cmake/debug/x86 --target jthread",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/who/Library/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/who/Library/Android/ndk-bundle/sysroot   -I../../../../src/main/jni -I../../../../src/main/jni/JThread -isystem /Users/who/Library/Android/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/who/Library/Android/ndk-bundle/sources/android/support/include -isystem /Users/who/Library/Android/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/who/Library/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/who/Desktop/upixels/code/Communication/app/src/main/jni/JThread/jmutex.cpp",
+					"workingDirectory" : "/Users/who/Desktop/upixels/code/Communication/app/.externalNativeBuild/cmake/debug/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/who/Library/Android/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/who/Library/Android/ndk-bundle/sysroot   -I../../../../src/main/jni -I../../../../src/main/jni/JThread -isystem /Users/who/Library/Android/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/who/Library/Android/ndk-bundle/sources/android/support/include -isystem /Users/who/Library/Android/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/who/Library/Android/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/who/Desktop/upixels/code/Communication/app/src/main/jni/JThread/jthread.cpp",
+					"workingDirectory" : "/Users/who/Desktop/upixels/code/Communication/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "/Users/who/Desktop/upixels/code/Communication/app/.externalNativeBuild/cmake/debug/x86/libjthread.a",
+			"toolchain" : "8035290786638920650"
+		}
+	},
+	"toolchains" : 
+	{
+		"8035290786638920650" : 
+		{
+			"cCompilerExecutable" : "/Users/who/Library/Android/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/who/Library/Android/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

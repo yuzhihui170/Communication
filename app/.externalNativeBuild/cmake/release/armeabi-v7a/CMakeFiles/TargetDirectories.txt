@@ -1,0 +1,3 @@
+/Users/who/Desktop/upixels/code/Communication/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/who/Desktop/upixels/code/Communication/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/who/Desktop/upixels/code/Communication/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/jrtplib.dir

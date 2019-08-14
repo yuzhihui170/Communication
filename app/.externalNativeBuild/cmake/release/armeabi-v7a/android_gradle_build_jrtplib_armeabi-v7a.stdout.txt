@@ -1,0 +1,144 @@
+[1/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/jthread/jmutex.cpp.o
+[2/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/jthread/jthread.cpp.o
+[3/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtcpapppacket.cpp.o
+[4/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtcpbyepacket.cpp.o
+[5/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtcpcompoundpacket.cpp.o
+[6/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtcpcompoundpacketbuilder.cpp.o
+[7/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtcppacket.cpp.o
+[8/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtcppacketbuilder.cpp.o
+[9/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtcprrpacket.cpp.o
+[10/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtcpscheduler.cpp.o
+[11/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtcpsdesinfo.cpp.o
+[12/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtcpsdespacket.cpp.o
+[13/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtcpsrpacket.cpp.o
+[14/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpcollisionlist.cpp.o
+[15/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpdebug.cpp.o
+[16/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtperrors.cpp.o
+[17/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpinternalsourcedata.cpp.o
+[18/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpipv4address.cpp.o
+[19/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpipv6address.cpp.o
+[20/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpipv4destination.cpp.o
+[21/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpipv6destination.cpp.o
+[22/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtplibraryversion.cpp.o
+[23/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtppacket.cpp.o
+[24/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtppacketbuilder.cpp.o
+[25/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtppollthread.cpp.o
+[26/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtprandom.cpp.o
+[27/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtprandomrand48.cpp.o
+[28/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtprandomrands.cpp.o
+[29/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtprandomurandom.cpp.o
+[30/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpsession.cpp.o
+[31/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpsessionparams.cpp.o
+[32/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpsessionsources.cpp.o
+[33/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpsourcedata.cpp.o
+[34/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpsources.cpp.o
+[35/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtptimeutilities.cpp.o
+[36/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpudpv4transmitter.cpp.o
+[37/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpudpv6transmitter.cpp.o
+[38/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpbyteaddress.cpp.o
+[39/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpexternaltransmitter.cpp.o
+[40/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpsecuresession.cpp.o
+[41/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtpabortdescriptors.cpp.o
+[42/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtptcpaddress.cpp.o
+[43/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/JRTPLIB/src/rtptcptransmitter.cpp.o
+[44/53] Building C object CMakeFiles/jrtplib.dir/src/main/jni/Common/thread/linux/thread_pthread.c.o
+[45/53] Building C object CMakeFiles/jrtplib.dir/src/main/jni/Common/thread/linux/Semaphore_linux.c.o
+[46/53] Building C object CMakeFiles/jrtplib.dir/src/main/jni/Common/thread/linux/mutex_pthread.c.o
+[47/53] Building C object CMakeFiles/jrtplib.dir/src/main/jni/Common/circular_list.c.o
+[48/53] Building C object CMakeFiles/jrtplib.dir/src/main/jni/AnsyncDecoder/AnsyncDecoder.c.o
+[49/53] Building C object CMakeFiles/jrtplib.dir/src/main/jni/AnsyncDecoder/sps_pps.c.o
+[50/53] Building C object CMakeFiles/jrtplib.dir/src/main/jni/display/display.c.o
+[51/53] Building C object CMakeFiles/jrtplib.dir/src/main/jni/test.c.o
+/Users/who/Desktop/upixels/code/Communication/app/src/main/jni/test.c:58:34: warning: 'codec' is deprecated [-Wdeprecated-declarations]
+        if (fmt_ctx->streams[i]->codec->codec_type == AVMEDIA_TYPE_AUDIO) {
+                                 ^
+../../../../src/main/jni/ffmpeg/include/libavformat/avformat.h:884:5: note: 'codec' has been explicitly marked deprecated here
+    attribute_deprecated
+    ^
+../../../../src/main/jni/ffmpeg/include/libavutil/attributes.h:94:49: note: expanded from macro 'attribute_deprecated'
+#    define attribute_deprecated __attribute__((deprecated))
+                                                ^
+/Users/who/Desktop/upixels/code/Communication/app/src/main/jni/test.c:67:47: warning: 'codec' is deprecated [-Wdeprecated-declarations]
+    cod_ctx = fmt_ctx->streams[stream_index]->codec;
+                                              ^
+../../../../src/main/jni/ffmpeg/include/libavformat/avformat.h:884:5: note: 'codec' has been explicitly marked deprecated here
+    attribute_deprecated
+    ^
+../../../../src/main/jni/ffmpeg/include/libavutil/attributes.h:94:49: note: expanded from macro 'attribute_deprecated'
+#    define attribute_deprecated __attribute__((deprecated))
+                                                ^
+/Users/who/Desktop/upixels/code/Communication/app/src/main/jni/test.c:110:56: warning: format specifies type 'long' but the argument has type 'int64_t' (aka 'long long') [-Wformat]
+            cod_ctx->sample_fmt, cod_ctx->sample_rate, in_channel_layout);
+                                                       ^~~~~~~~~~~~~~~~~
+../../../../src/main/jni/fflog.h:64:101: note: expanded from macro 'printf'
+    #define printf(x, ...) LOGD("[ %s | %s | %d ] " x, basename(__FILE__), __FUNCTION__,__LINE__, ##__VA_ARGS__)
+                                                                                                    ^~~~~~~~~~~
+../../../../src/main/jni/fflog.h:53:69: note: expanded from macro 'LOGD'
+    #define LOGD(...) __android_log_print(ANDROID_LOG_DEBUG ,  TAG, __VA_ARGS__)
+                                                                    ^~~~~~~~~~~
+/Users/who/Desktop/upixels/code/Communication/app/src/main/jni/test.c:121:55: warning: format specifies type 'long' but the argument has type 'int64_t' (aka 'long long') [-Wformat]
+           cod_ctx->sample_fmt, cod_ctx->sample_rate, in_channel_layout);
+                                                      ^~~~~~~~~~~~~~~~~
+../../../../src/main/jni/fflog.h:64:101: note: expanded from macro 'printf'
+    #define printf(x, ...) LOGD("[ %s | %s | %d ] " x, basename(__FILE__), __FUNCTION__,__LINE__, ##__VA_ARGS__)
+                                                                                                    ^~~~~~~~~~~
+../../../../src/main/jni/fflog.h:53:69: note: expanded from macro 'LOGD'
+    #define LOGD(...) __android_log_print(ANDROID_LOG_DEBUG ,  TAG, __VA_ARGS__)
+                                                                    ^~~~~~~~~~~
+/Users/who/Desktop/upixels/code/Communication/app/src/main/jni/test.c:124:41: warning: format specifies type 'long' but the argument has type 'uint64_t' (aka 'unsigned long long') [-Wformat]
+           sample_fmt, out_sample_rate, out_channel_layout);
+                                        ^~~~~~~~~~~~~~~~~~
+../../../../src/main/jni/fflog.h:64:101: note: expanded from macro 'printf'
+    #define printf(x, ...) LOGD("[ %s | %s | %d ] " x, basename(__FILE__), __FUNCTION__,__LINE__, ##__VA_ARGS__)
+                                                                                                    ^~~~~~~~~~~
+../../../../src/main/jni/fflog.h:53:69: note: expanded from macro 'LOGD'
+    #define LOGD(...) __android_log_print(ANDROID_LOG_DEBUG ,  TAG, __VA_ARGS__)
+                                                                    ^~~~~~~~~~~
+/Users/who/Desktop/upixels/code/Communication/app/src/main/jni/test.c:135:27: warning: 'avcodec_decode_audio4' is deprecated [-Wdeprecated-declarations]
+            if ((result = avcodec_decode_audio4(cod_ctx, frame, &got_picture, packet) )< 0) {
+                          ^
+../../../../src/main/jni/ffmpeg/include/libavcodec/avcodec.h:4750:1: note: 'avcodec_decode_audio4' has been explicitly marked deprecated here
+attribute_deprecated
+^
+../../../../src/main/jni/ffmpeg/include/libavutil/attributes.h:94:49: note: expanded from macro 'attribute_deprecated'
+#    define attribute_deprecated __attribute__((deprecated))
+                                                ^
+/Users/who/Desktop/upixels/code/Communication/app/src/main/jni/test.c:151:9: warning: 'av_free_packet' is deprecated [-Wdeprecated-declarations]
+        av_free_packet(packet);
+        ^
+../../../../src/main/jni/ffmpeg/include/libavcodec/avcodec.h:4460:1: note: 'av_free_packet' has been explicitly marked deprecated here
+attribute_deprecated
+^
+../../../../src/main/jni/ffmpeg/include/libavutil/attributes.h:94:49: note: expanded from macro 'attribute_deprecated'
+#    define attribute_deprecated __attribute__((deprecated))
+                                                ^
+In file included from /Users/who/Desktop/upixels/code/Communication/app/src/main/jni/test.c:18:
+../../../../src/main/jni/fflog.h:20:27: warning: unused function 'getTimestampMS' [-Wunused-function]
+static unsigned long long getTimestampMS()
+                          ^
+../../../../src/main/jni/fflog.h:34:22: warning: unused function 'getTimestamp' [-Wunused-function]
+static unsigned long getTimestamp()
+                     ^
+../../../../src/main/jni/fflog.h:108:16: warning: unused function 'jniThrowException' [-Wunused-function]
+    static int jniThrowException(JNIEnv *env, const char *className, const char *msg) {
+               ^
+10 warnings generated.
+[52/53] Building CXX object CMakeFiles/jrtplib.dir/src/main/jni/jrtplibutil_jni.cpp.o
+/Users/who/Desktop/upixels/code/Communication/app/src/main/jni/AnsyncDecoder/AnsyncDecoder.c:75:8: warning: unused variable 'nalu_type' [-Wunused-variable]
+    u8 nalu_type = buffer->data[4] & 0x1f;
+       ^
+In file included from /Users/who/Desktop/upixels/code/Communication/app/src/main/jni/AnsyncDecoder/AnsyncDecoder.c:16:
+../../../../src/main/jni/fflog.h:20:27: warning: unused function 'getTimestampMS' [-Wunused-function]
+static unsigned long long getTimestampMS()
+                          ^
+../../../../src/main/jni/fflog.h:34:22: warning: unused function 'getTimestamp' [-Wunused-function]
+static unsigned long getTimestamp()
+                     ^
+../../../../src/main/jni/fflog.h:108:16: warning: unused function 'jniThrowException' [-Wunused-function]
+    static int jniThrowException(JNIEnv *env, const char *className, const char *msg) {
+               ^
+/Users/who/Desktop/upixels/code/Communication/app/src/main/jni/AnsyncDecoder/AnsyncDecoder.c:160:14: warning: unused variable 'fp' [-Wunused-variable]
+static FILE *fp = NULL;
+             ^
+5 warnings generated.
+[53/53] Linking CXX shared library ../../../../build/intermediates/cmake/release/obj/armeabi-v7a/libjrtplib.so

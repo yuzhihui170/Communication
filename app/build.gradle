@@ -1,0 +1,51 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        release {
+            storeFile file('/Users/who/Desktop/U/key_store/up_zx.jks')
+            storePassword 'upixels88'
+            keyAlias = 'up_zx'
+            keyPassword 'upixels88'
+        }
+    }
+
+    compileSdkVersion 28
+
+    defaultConfig {
+        applicationId "com.forrest.communication"
+        minSdkVersion 21
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+        externalNativeBuild {
+            cmake {
+                cppFlags "-fexceptions", "-frtti", "-O3"
+                cFlags "-Wall -O3 -U_FORTIFY_SOURCE -fstack-protector-all"
+                arguments "-DANDROID_STL=c++_static", "-DANDROID_ARM_NEON=TRUE"
+                abiFilters 'armeabi-v7a', 'arm64-v8a'
+            }
+        }
+        signingConfig signingConfigs.release
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    externalNativeBuild {
+        cmake {
+            path file('CMakeLists.txt')
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
+}
