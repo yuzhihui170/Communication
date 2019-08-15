@@ -1,17 +1,8 @@
 apply plugin: 'com.android.application'
 
 android {
-    signingConfigs {
-        release {
-            storeFile file('/Users/who/Desktop/U/key_store/up_zx.jks')
-            storePassword 'upixels88'
-            keyAlias = 'up_zx'
-            keyPassword 'upixels88'
-        }
-    }
 
     compileSdkVersion 28
-
     defaultConfig {
         applicationId "com.forrest.communication"
         minSdkVersion 21
@@ -26,14 +17,12 @@ android {
                 abiFilters 'armeabi-v7a', 'arm64-v8a'
             }
         }
-        signingConfig signingConfigs.release
     }
 
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.release
         }
     }
 
